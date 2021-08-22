@@ -1,0 +1,9 @@
+name: yarpc-client
+version: 0.1.0
+
+authors:
+  - Dmitriy Vishnevskiy <0x000def42@gmail.com>
+
+crystal: 1.1.1
+
+license: MIT

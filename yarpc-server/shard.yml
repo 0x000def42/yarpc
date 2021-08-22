@@ -1,0 +1,13 @@
+name: yarpc
+version: 0.1.0
+
+authors:
+  - Dmitriy Vishnevskiy <dmitriy.vishnevskiy@justforex.com>
+
+targets:
+  yarpc:
+    main: src/yarpc.cr
+
+crystal: 1.1.1
+
+license: MIT
